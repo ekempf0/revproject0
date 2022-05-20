@@ -28,7 +28,7 @@ To-do list:
 
 $ git clone https://github.com/ekempf0/revproject1
 
-### Usuage
+### Usage
 
 The program should be used to demonstrate the CRUD operations on a database.
 
