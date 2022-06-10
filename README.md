@@ -1,5 +1,4 @@
-# revproject1
-### Project 1 - Python
+# Project 1 - Python
 
 ### Project Description
 This is our first project for Revature. A simple command-line terminal program to demonstrate the use of databases and database interactions. 
